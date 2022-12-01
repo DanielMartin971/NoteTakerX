@@ -1,4 +1,4 @@
-console.log('working');
+console.log('index is working');
 let noteTitle;
 let noteText;
 let saveNoteBtn;
