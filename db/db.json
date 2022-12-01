@@ -18,5 +18,21 @@
    "title": "A new note",
    "text": "theres a new not"
   }
+ },
+ {
+  "title": "This is a note",
+  "text": "Hello there note!",
+  "id": {
+   "title": "A new note",
+   "text": "theres a new not"
+  }
+ },
+ {
+  "title": "a new day",
+  "text": "a new",
+  "id": {
+   "title": "A new note",
+   "text": "theres a new not"
+  }
  }
 ]
