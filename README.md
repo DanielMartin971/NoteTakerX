@@ -2,7 +2,7 @@
 
 ## Description
 
-This note application allows you to save notes with a title and text. It uses ExpressJS and NodeJS.
+This note application allows you to save notes with a title and text. It uses ExpressJS and NodeJS. You type in a title and a little description then hit the save button on the top right corner. This application will save it to the left hand side of the screen and allow you to click back on it and see whatever you needed to note down.
 
 ## Installation
 
