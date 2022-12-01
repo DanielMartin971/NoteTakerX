@@ -1,1 +1,22 @@
-[]
+[
+ {
+  "title": "A new note",
+  "text": "theres a new not"
+ },
+ {
+  "title": "a new not ",
+  "text": "not",
+  "id": {
+   "title": "A new note",
+   "text": "theres a new not"
+  }
+ },
+ {
+  "title": "come on",
+  "text": "come",
+  "id": {
+   "title": "A new note",
+   "text": "theres a new not"
+  }
+ }
+]
